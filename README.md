@@ -1,2 +1,3 @@
-# cyber-prat
-A Discord bot built for the community, by the community
+# http-bot
+
+A simple HTTP Discord bot (it runs on the edge!)

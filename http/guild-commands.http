@@ -1,0 +1,10 @@
+PUT https://discord.com/api/v10/applications/APP_ID/guildS/GUILD_ID/commands
+Authorization: Bot BOT_TOKEN
+Content-Type: application/json
+
+[
+    {
+        "name": "beep",
+        "description": "What does this button do!?"
+    }
+]
